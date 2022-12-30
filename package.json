@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@microlink/react": "^4.5.1",
-    "gatsby": "^2.18.5",
+    "gatsby": "^2.32.13",
     "gatsby-cli": "^2.8.22",
     "gatsby-plugin-create-client-paths": "^2.1.21",
     "gatsby-plugin-sass": "^2.1.27",
